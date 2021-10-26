@@ -1,2 +1,3 @@
 # Python-Practice
-Practice test enjoy!
+print("Practice test enjoy!")
+
